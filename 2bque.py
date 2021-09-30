@@ -51,7 +51,7 @@ def screen():
 {Fore.YELLOW}[x]{Style.RESET_ALL}{Fore.MAGENTA}================================{Fore.YELLOW}[x]{Style.RESET_ALL}{Fore.MAGENTA}
  ║  {Fore.RED}[1]{Style.RESET_ALL}{Fore.MAGENTA}:  {Fore.WHITE}Queue Length{Style.RESET_ALL}{Fore.MAGENTA}              ║
  ║  {Fore.RED}[2]{Style.RESET_ALL}{Fore.MAGENTA}:  {Fore.WHITE}Players in Queue{Style.RESET_ALL}{Fore.MAGENTA}          ║
- ║  {Fore.RED}[3]{Style.RESET_ALL}{Fore.MAGENTA}:  {Fore.WHITE}Players in Server{Style.RESET_ALL}{Fore.MAGENTA}         ║
+ ║  {Fore.RED}[3]{Style.RESET_ALL}{Fore.MAGENTA}:  {Fore.WHITE}Players on Server{Style.RESET_ALL}{Fore.MAGENTA}         ║
  ║  {Fore.RED}[4]{Style.RESET_ALL}{Fore.MAGENTA}:  {Fore.WHITE}Skin Downloader{Style.RESET_ALL}{Fore.MAGENTA}           ║
  ║  {Fore.RED}[5]{Style.RESET_ALL}{Fore.MAGENTA}:  {Fore.WHITE}Exit{Style.RESET_ALL}{Fore.MAGENTA}                      ║
 {Fore.YELLOW}[x]{Style.RESET_ALL}{Fore.MAGENTA}================================{Fore.YELLOW}[x]{Style.RESET_ALL}
