@@ -17,6 +17,10 @@ Git clone this repo
 and then execute the run.bat file, it installes all the required libs and auto starts the 2bque.py file
 
 # Functions
+  - Queue Length
+  - Players in Queue
+  - Players on Server
+  - Skin Downloader (it doesnt actualy download the skin it just opens the skin in a new browser tab)
 
 # Credits
 The webside to get skins: [minotar](https://minotar.net)
